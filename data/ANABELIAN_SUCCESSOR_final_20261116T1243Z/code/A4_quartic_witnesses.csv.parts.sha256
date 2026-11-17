@@ -1,0 +1,2 @@
+2ef8a1542202dd1a91c0d2c03de21e68bb19be7d2bf171f8bc83ef6e8e3cb88c  A4_quartic_witnesses.csv  (100738157 bytes in 3 parts)
+join: cat A4_quartic_witnesses.csv.part* > A4_quartic_witnesses.csv   (Windows: copy /b A4_quartic_witnesses.csv.part01+A4_quartic_witnesses.csv.part02+... A4_quartic_witnesses.csv)

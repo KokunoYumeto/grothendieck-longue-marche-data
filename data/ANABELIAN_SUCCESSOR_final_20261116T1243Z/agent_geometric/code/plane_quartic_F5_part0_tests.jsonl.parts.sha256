@@ -1,0 +1,2 @@
+a7a680e545112c29e21859d9b11e8e8840bce40c9d5f2e150c527c8d48253a73  plane_quartic_F5_part0_tests.jsonl  (164981663 bytes in 4 parts)
+join: cat plane_quartic_F5_part0_tests.jsonl.part* > plane_quartic_F5_part0_tests.jsonl   (Windows: copy /b plane_quartic_F5_part0_tests.jsonl.part01+plane_quartic_F5_part0_tests.jsonl.part02+... plane_quartic_F5_part0_tests.jsonl)
