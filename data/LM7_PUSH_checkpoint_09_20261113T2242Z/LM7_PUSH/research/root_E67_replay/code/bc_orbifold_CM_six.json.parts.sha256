@@ -1,0 +1,2 @@
+e0c8d999074d4c553716a161ddff692892f988ff0ac65a4eb629749297146793  bc_orbifold_CM_six.json  (49238300 bytes in 2 parts)
+join: cat bc_orbifold_CM_six.json.part* > bc_orbifold_CM_six.json   (Windows: copy /b bc_orbifold_CM_six.json.part01+bc_orbifold_CM_six.json.part02+... bc_orbifold_CM_six.json)
