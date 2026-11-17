@@ -1,0 +1,2 @@
+6490e98cdbd070e4e86c1225d6ccc539b0ebef980dfbf5840d924f49df7a8de3  e53_upper_exact_roots.bin  (72350222 bytes in 2 parts)
+join: cat e53_upper_exact_roots.bin.part* > e53_upper_exact_roots.bin   (Windows: copy /b e53_upper_exact_roots.bin.part01+e53_upper_exact_roots.bin.part02+... e53_upper_exact_roots.bin)
